@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /publications
+---
+
+{% include base_path %}
+
 **[1]** **Huang, S.**, Wang, Y., Li, G., Hall, B.J., & Nyman, T.J. (2024). Effectiveness and implementation of digital interventions to alleviate depressive and anxiety symptoms for individuals on waiting lists for face-to-face psychotherapy: A systematic review. _JMIR: Mental Health_. 2024;11:e56650. [https://mental.jmir.org/2024/1/e56650](https://mental.jmir.org/2024/1/e56650) [**Download**](../files/mental-2024-1-e56650.pdf)<br /> 
 
 **[2]** **Huang, S.**, Li, Z., & Santtila, P. (2024). The Effectiveness of Online Sensate Focus Exercises in Enhancing Sexual Function and Intimacy Among Chinese Heterosexual Couples: A Randomized Controlled Trial. _Journal of Sex & Marital Therapy, 50_(6), 707–724. [https://doi.org/10.1080/0092623X.2024.2355229](https://doi.org/10.1080/0092623X.2024.2355229) [**Download**](../files/sensate-focus-rct.pdf)<br /> 
