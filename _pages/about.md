@@ -15,7 +15,7 @@ During my undergraduate studies at New York University Shanghai, I worked with D
 
 I am also a native speaker of Mandarin Chinese and Sichuanese.
 
-**Research Interest:** Human Sexuality, Couple Therapy, Dating Violence Prevention 
+**Research Interest:** Human Sexuality, Couple and Sex Therapy, Dating Violence Prevention 
 
 
 **Education**<br />
