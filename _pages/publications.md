@@ -20,3 +20,10 @@ redirect_from:
 **[5]** **Huang, S.**, Jern, P., Niu, C., & Santtila, P. (2023). Associations between sexually submissive and dominant behaviors and sexual function in men and women. _International Journal of Impotence Research_. [https://doi.org/10.1038/s41443-023-00705-5](https://doi.org/10.1038/s41443-023-00705-5) [**Download**](../files/submissive-dominant-sexual-dysfunction.pdf) <br />
 
 **[6]** **Huang, S.**, Niu, C., & Santtila, P. (2022). Masturbation frequency and sexual function in individuals with and without sexual partners. _Sexes 3_, 229–243. [https://doi.org/10.3390/sexes3020018](https://doi.org/10.3390/sexes3020018) [**Download**](../files/sexes-03-00018.pdf) <br />
+
+**Peer Review Experiences**
+---
+• Journal of Sex & Marital Therapy: 1 review in 2024; 1 review in 2025  <br />
+• Nature Partner Journals (NPJ) Women’s Health: 1 review in 2024  <br />
+• BMC Psychiatry: 1 review in 2024 <br />
+• BMC Women's Health: 1 review in 2024 <br />
