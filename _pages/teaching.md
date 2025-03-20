@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**Rowan University** **一** **Glassboro, NJ** <br />
+**Rowan University, College of Science and Mathematics** **一** **Glassboro, NJ** <br />
 _Learning Assistant_, Abnormal Psychology and Physiological Psychology (Sep 2024 一 Present) <br />
 
