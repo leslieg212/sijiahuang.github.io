@@ -33,17 +33,17 @@ Bachelor of Arts, Psychology; Minor in Humanities (Sep 2018 - May 2022) <br />
 
 **Honors and Awards**
 ---
-• Graduate Student Travel Fund, Rowan University (2024)<br />
-• Columbia University Teachers College Scholarship (2023)<br />
-• Outstanding Poster at the 6th Annual Conference of the Institute of Psychological Science and Practice at Columbia University (2023)<br />
-• NYU Shanghai Global Elite Scholar (2018-2022)<br />
-• Dean’s List for Academic Years (2020-2022)<br />
-• Deans’ Undergraduate Research Funds at NYU Shanghai (2021)<br />
-• Best Research Project in Liberal Arts & Business (2021)<br />
+• Graduate Student Travel Fund, Rowan University (2024) <br />
+• Columbia University Teachers College Scholarship (2023) <br />
+• Outstanding Poster at the 6th Annual Conference of the Institute of Psychological Science and Practice at Columbia University (2023) <br />
+• NYU Shanghai Global Elite Scholar (2018-2022) <br />
+• Dean’s List for Academic Years (2020-2022) <br />
+• Deans’ Undergraduate Research Funds at NYU Shanghai (2021) <br />
+• Best Research Project in Liberal Arts & Business (2021) <br />
 
 
 **Skills**
 ---
-Data Analysis: R, SPSS<br />
-Citation Software: Zotero, Endnote<br />
-Others: Eye-tracking (TOBII, Gazepoint, ELAN), Qualtrics, Covidence for systematic review, Web design using Squarespace<br />
+Data Analysis: R, SPSS <br />
+Citation Software: Zotero, Endnote <br />
+Others: Eye-tracking (TOBII, Gazepoint, ELAN), Qualtrics, Covidence for systematic review, Web design using Squarespace <br />
