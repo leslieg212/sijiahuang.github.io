@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Clinical Experience"
+permalink: /clinical/
+author_profile: true
+redirect_from:
+  - /clinical
+---
+
+{% include base_path %}
+
+
 **Clinical Experience**
 ---
 **Cooper University Hospital** **一** **Camden, NJ**<br />
