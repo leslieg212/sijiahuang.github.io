@@ -42,11 +42,6 @@ Bachelor of Arts, Psychology; Minor in Humanities (Sep 2018 - May 2022) <br />
 • Best Research Project in Liberal Arts & Business (2021)
 
 
-**Languages**
----
-English (fluent), Mandarin Chinese (native), Sichuanese (native)
-
-
 **Skills**
 ---
 Data Analysis: R, SPSS
