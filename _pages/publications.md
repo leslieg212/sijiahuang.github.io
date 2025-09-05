@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-**[1]** **Huang, S.**, Yang, J., & Santtila, P. (2025)  After the Act: After-Sex Behaviors and Their Correlates in Straight Chinese Couples. _Sexes, 6_(3), 48. [https://doi.org/10.3390/sexes6030048](https://doi.org/10.3390/sexes6030048)[**Downlaod**]()<br /> 
+**[1]** **Huang, S.**, Yang, J., & Santtila, P. (2025)  After the Act: After-Sex Behaviors and Their Correlates in Straight Chinese Couples. _Sexes, 6_(3), 48. [https://doi.org/10.3390/sexes6030048](https://doi.org/10.3390/sexes6030048) [**Downlaod**](../files/sexes-06-00048.pdf)<br /> 
 
-**[2]** Li, Z., **Huang, S.**, & Santtila, P. (2025). Sexual communication in Chinese heterosexual couples: the efficacy of online sensate focus intervention and correlations with relational and sexual outcomes. _Sexual and Relationship Therapy_, 1–29. [https://doi.org/10.1080/14681994.2025.2506090](https://doi.org/10.1080/14681994.2025.2506090) [**Downlaod**]()<br /> 
+**[2]** Li, Z., **Huang, S.**, & Santtila, P. (2025). Sexual communication in Chinese heterosexual couples: the efficacy of online sensate focus intervention and correlations with relational and sexual outcomes. _Sexual and Relationship Therapy_, 1–29. [https://doi.org/10.1080/14681994.2025.2506090](https://doi.org/10.1080/14681994.2025.2506090) [**Downlaod**](../files/Sexual-communication-sf.pdf)<br /> 
 
 **[3]** **Huang, S.**, Wang, Y., Li, G., Hall, B.J., & Nyman, T.J. (2024). Effectiveness and implementation of digital interventions to alleviate depressive and anxiety symptoms for individuals on waiting lists for face-to-face psychotherapy: A systematic review. _JMIR: Mental Health_. 2024;11:e56650. [https://mental.jmir.org/2024/1/e56650](https://mental.jmir.org/2024/1/e56650) [**Download**](../files/mental-2024-1-e56650.pdf)<br /> 
 
