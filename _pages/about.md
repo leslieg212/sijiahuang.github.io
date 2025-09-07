@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Rowan University's APA-accredited Clinical Psychology program. Prior to joining Rowan, I completed my Master's in Psychology at Columbia University, and my Bachelor's in Psychology (with a minor in Humanities) at New York University Shanghai.
+I am a Ph.D. student at **Rowan University**'s APA-accredited Clinical Psychology program, with an emphasis on _integrated healthcare and health psychology_. Prior to joining Rowan, I completed my Master's in Psychology at **Columbia University**, and my Bachelor's in Psychology (with a minor in Humanities) at **New York University Shanghai**.
 
-Currently, under the supervision of Dr. DJ Angelone and Dr. Meredith Jones at the [ASSeRT Lab](https://www.rowanassert.com), I am working on studies about sexual dysfunction and sexual violence perpetration, barriers of engaging in health care among young moms, and alcohol administration and decision-making in a lab paradigm setting.
+Currently, under the supervision of **Dr. DJ Angelone** and **Dr. Meredith Jones** at the [ASSeRT Lab](https://www.rowanassert.com), I am working on studies about sexual dysfunction and sexual violence perpetration, barriers of engaging in health care among young moms, and alcohol administration and decision-making in a lab paradigm setting.
 
-During my undergraduate studies at New York University Shanghai, I worked with Dr. Pekka Santtila, Dr. Thomas J. Nyman, and Dr. Patrick Jern, on studies about Sensate Focus sex therapy, masturbation and sexual dysfunction, and digital mental health.
+During my undergraduate studies at New York University Shanghai, I worked with **Dr. Pekka Santtila**, **Dr. Thomas J. Nyman**, **Dr. Patrick Jern**, and **Dr. Gu Li**, on studies about Sensate Focus sex therapy, masturbation and sexual dysfunction, cognitive processing therapy, and digital mental health.
 
 I am also a native speaker of Mandarin Chinese and Sichuanese.
 
