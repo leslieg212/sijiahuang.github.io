@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at **Rowan University**'s _APA-accredited Clinical Psychology_ program, with an emphasis on _integrated healthcare and health psychology_. Prior to joining Rowan, I completed my Master's in Psychology at **Columbia University**, and my Bachelor's in Psychology (with a minor in Humanities) at **New York University Shanghai**.
+I am a second-year Ph.D. student in the _APA-accredited Clinical Psychology_ program at **Rowan University**, receiving training with an emphasis on _integrated healthcare and health psychology_. Prior to joining Rowan, I completed my Master's in Psychology at **Columbia University** and my Bachelor's in Psychology (with a minor in Humanities) at **New York University Shanghai**.
 
 Currently, under the supervision of **Dr. DJ Angelone** and **Dr. Meredith Jones** at the [ASSeRT Lab](https://www.rowanassert.com), I am working on studies about sexual dysfunction and sexual violence perpetration, barriers of engaging in health care among young moms, and alcohol administration and decision-making in a lab paradigm setting.
 
