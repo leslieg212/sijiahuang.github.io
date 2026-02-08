@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Conference"
+    url: /Conference/
+
   - title: "Clinical Experience"
     url: /clinical/    
 
