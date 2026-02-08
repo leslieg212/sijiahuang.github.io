@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-{% assign sorted_collection = site.portfolio | sort: 'weight' | reverse %}
-
-{% for post in sorted.conference %}
+{% assign sorted_conference = site.conference | sort: 'weight' | reverse %}
+{% for post in sorted_conference %}
   {% include archive-single.html %}
 {% endfor %}
-
