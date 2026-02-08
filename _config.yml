@@ -222,7 +222,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  conference:
     output: true
     permalink: /:collection/:path/
 
