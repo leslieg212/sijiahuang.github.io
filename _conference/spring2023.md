@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The 6th Annual Conference of the Institute of Psychological Science and Practice at Columbia University Teachers College"
+title: "The 6th annual conference of the Institute of Psychological Science and Practice at Columbia University"
 excerpt: "Can online sensate focus exercises enhance sexual and relationship satisfaction among Chinese heterosexual couples?<br/>"
 collection: conference
 weight: 2
