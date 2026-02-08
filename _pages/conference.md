@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Selected Projects**<br />
+**Conference Presentations**<br />
 ---
 
 
