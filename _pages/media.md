@@ -21,4 +21,4 @@ redirect_from:
 ---
 1. NYU Shanghai Center for Global Health Equity, Nov 2024, “New Review Reveals Limited Effectiveness of Digital Mental Health Interventions for Individuals Awaiting Psychotherapy.” [https://cghe.shanghai.nyu.edu/news/new-review-reveals-limited-effectiveness-digital-mental-health-interventions-individuals](https://cghe.shanghai.nyu.edu/news/new-review-reveals-limited-effectiveness-digital-mental-health-interventions-individuals)
 
-2. NYU Shanghai News, Nov 2021, “Floormates to Friends: Sarah Armstrong ’22 and Leslie Huang Sijia ’22.” [https://shanghai.nyu.edu/stories/floormates-friends-sarah-armstrong-22-and-leslie-huang-sijia-22](https://shanghai.nyu.edu/stories/floormates-friends-sarah-armstrong-22-and-leslie-huang-sijia-22)]
+2. NYU Shanghai News, Nov 2021, “Floormates to Friends: Sarah Armstrong ’22 and Leslie Huang Sijia ’22.” [https://shanghai.nyu.edu/stories/floormates-friends-sarah-armstrong-22-and-leslie-huang-sijia-22](https://shanghai.nyu.edu/stories/floormates-friends-sarah-armstrong-22-and-leslie-huang-sijia-22)
