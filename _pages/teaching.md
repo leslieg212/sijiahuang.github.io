@@ -11,6 +11,7 @@ redirect_from:
 
 **Rowan University, College of Science and Mathematics** **一** **Glassboro, NJ** <br />
 _Instructor_ <br />
+• Psychological Disorders: Fall 2026 <br />
 • Psychology of Human Sexuality: Spring 2026 <br />
 • Essentials of Psychology: Fall 2025 <br />
 
