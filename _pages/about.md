@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in the _APA-accredited Clinical Psychology_ program at **Rowan University**, receiving training with an emphasis on _integrated healthcare and health psychology_. Prior to joining Rowan, I completed my Master's in Psychology at **Columbia University** and my Bachelor's in Psychology (with a minor in Humanities) at **New York University Shanghai**.
 
-Currently, under the supervision of **Dr. DJ Angelone** and **Dr. Meredith Jones** at the [ASSeRT Lab](https://www.rowanassert.com), I am working on studies about sexual dysfunction and sexual violence perpetration, barriers of engaging in health care among young moms, and alcohol administration and decision-making in a lab paradigm setting.
+Currently, under the supervision of **Dr. DJ Angelone** and **Dr. Meredith Jones** at the [ASSeRT Lab](https://www.rowanassert.com), I am working on studies about sexual dysfunction and sensate focus sex therapy, developing online intervention for couples; sexual violence perpetration; understanding barriers of engaging in health care among young moms; and alcohol administration and decision-making in a lab paradigm setting.
 
 During my undergraduate studies at New York University Shanghai, I worked with **Dr. Pekka Santtila**, **Dr. Thomas J. Nyman**, **Dr. Patrick Jern**, and **Dr. Gu Li**, on studies about Sensate Focus sex therapy, masturbation and sexual dysfunction, cognitive processing therapy, and digital mental health.
 
@@ -33,6 +33,8 @@ Bachelor of Arts, Psychology; Minor in Humanities (Sep 2018 - May 2022) <br />
 
 **Honors and Awards**
 ---
+• Student Researcher Travel Grants for 2026 Conference in Porto, Portugal, International Academy of Sex Research (2026) <br />
+• Outstanding Pre-Candidate Clinical Doctoral Student Award, Rowan University (2026) <br />
 • Graduate Student Travel Fund, Rowan University (2024) <br />
 • Columbia University Teachers College Scholarship (2023) <br />
 • Outstanding Poster at the 6th Annual Conference of the Institute of Psychological Science and Practice at Columbia University (2023) <br />
@@ -46,4 +48,4 @@ Bachelor of Arts, Psychology; Minor in Humanities (Sep 2018 - May 2022) <br />
 ---
 Data Analysis: R, SPSS <br />
 Citation Software: Zotero, Endnote <br />
-Others: Eye-tracking (TOBII, Gazepoint, ELAN), Qualtrics, Covidence for systematic review, Web design using Squarespace <br />
+Others: REDCap, Eye-tracking (TOBII, Gazepoint, ELAN), Qualtrics, Covidence for systematic review, Web design using GitHub and Squarespace <br />
